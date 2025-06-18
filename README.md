@@ -67,6 +67,7 @@ EduGlobe leverages AR technology to bring Earth science topics—such as plate t
 ---
 
 ## 📷 Project Showcase
+![Poster FYP Fiqie (3)](https://github.com/user-attachments/assets/0f0b064f-c5ff-4171-ac45-629d6258b5ac)
 
 - [Demo Videos, Screenshots, and APK](https://drive.google.com/drive/folders/1LUm1d2RNbYpwiGukU_G615llst06nypN?usp=sharing)
 
