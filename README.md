@@ -69,7 +69,17 @@ EduGlobe leverages AR technology to bring Earth science topics—such as plate t
 ## 📷 Project Showcase
 ![Poster FYP Fiqie (3)](https://github.com/user-attachments/assets/0f0b064f-c5ff-4171-ac45-629d6258b5ac)
 
-- [Demo Videos, Screenshots, and APK](https://drive.google.com/drive/folders/1LUm1d2RNbYpwiGukU_G615llst06nypN?usp=sharing)
+![Screenshot_2025-06-19-11-22-33-335_com norrr EDUGLOP](https://github.com/user-attachments/assets/07e582f7-5197-4b1e-adbd-1c2db8b787b0) ![Screenshot_2025-06-19-11-22-36-498_com norrr EDUGLOP](https://github.com/user-attachments/assets/e089ff8f-ec11-4af9-9481-8234ec0b79dd) 
+
+![Screenshot_2025-06-19-11-23-17-077_com norrr EDUGLOP](https://github.com/user-attachments/assets/4852f488-b3db-4953-be93-0a219967d191) ![Screenshot_2025-06-19-11-24-05-151_com norrr EDUGLOP](https://github.com/user-attachments/assets/33dfe4b8-40be-4749-b2c5-1f3d315ed275)
+
+![Screenshot_2025-06-19-11-24-35-346_com norrr EDUGLOP](https://github.com/user-attachments/assets/68148147-6f99-4764-a9fa-7b88b3537072) ![Screenshot_2025-06-19-11-25-02-722_com norrr EDUGLOP](https://github.com/user-attachments/assets/83ce90fc-0c3f-4f21-957a-8fce01b52970)
+
+
+
+   
+
+- [Screenshots and APK](https://drive.google.com/drive/folders/1LUm1d2RNbYpwiGukU_G615llst06nypN?usp=sharing)
 
 ---
 
